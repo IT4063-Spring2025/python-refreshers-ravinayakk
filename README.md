@@ -96,29 +96,29 @@ PYDEVD_DISABLE_FILE_VALIDATION=1 JUPYTER_PLATFORM_DIRS=1 pytest --capture=sys
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned about using numpy and np.arange. 
 
 **I struggled with:** (repeat as needed)
-- .
+- I struggled with numpy as I haven't really used it before so I need to review the documentation
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- I needed the instructor to help me fix my python version so that it linked to my python environment 
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
+[2] hours.
 
 **If I were to do this assignment again, I would:** (repeat as needed)
-- .
+- If I were to do this assignment again, I would review some of the numpy documentation and properly prepare my python environment before opening the file. 
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 --------------------
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- I used the NumPy documentation link that was connected to the numpy exercises.
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- I received help from Prof. Zaman.
 
 ---
 ## Copyrights and License
